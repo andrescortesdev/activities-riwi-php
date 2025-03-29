@@ -165,7 +165,6 @@ $posts = [
 ## ✅ Condiciones:
 
 - **No se debe modificar** el array `$users` ni el array `$posts`.
-- Todo debe realizarse en **un solo archivo PHP**.
 - Se debe usar `$_SESSION` para gestionar el inicio y cierre de sesión.
 - Las contraseñas están en texto plano para simplificar (no es necesario encriptarlas).
 
