@@ -183,4 +183,4 @@ $posts = [
 
 ## 📌 Nota:
 
-Esta actividad no requiere conexión a base de datos. Todo el ejercicio se basa en **manejo de arrays, formularios, validación y sesiones en PHP**.w
+Esta actividad no requiere conexión a base de datos. Todo el ejercicio se basa en **manejo de arrays, formularios, validación y sesiones en PHP**.
