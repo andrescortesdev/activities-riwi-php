@@ -1,4 +1,4 @@
 #Entrega de actividades
 
 ## activity_one
-- Robinson Andres Cortes | [Repositorio](URL_del_repo)
+- Alejandro Echavarria Jaramillo | [Repositorio](https://github.com/AlejandroEchavarriaRiwi/activitie-one-sol)
