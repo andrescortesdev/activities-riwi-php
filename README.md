@@ -1,4 +1,5 @@
-#Entrega de actividades
+# Entrega de actividades
 
 ## activity_one
-- Robinson Andres Cortes | [Repositorio](URL_del_repo)
+
+- JUAN CARLOS CARIDAD GONZALEZ | [Repositorio](https://github.com/NAUJVZLA?tab=repositories)
