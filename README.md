@@ -1,4 +1,4 @@
 #Entrega de actividades
 
 ## activity_one
-- Robinson Andres Cortes | [Repositorio](URL_del_repo)
+- Maria Isabel Vanegas | [Repositorio](https://github.com/mariaisva2/php-actividad.git)
